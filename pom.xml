@@ -45,6 +45,35 @@
             <artifactId>junit</artifactId>
             <version>4.13.2</version>
         </dependency>
+
+
+
+        <dependency>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+            <version>2.2.2</version>
+        </dependency>
+
+        <dependency>
+            <groupId>commons-beanutils</groupId>
+            <artifactId>commons-beanutils</artifactId>
+            <version>1.9.4</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.google.common/google-collect -->
+        <!-- https://mvnrepository.com/artifact/com.google.code.google-collections/google-collect -->
+        <dependency>
+            <groupId>com.google.code.google-collections</groupId>
+            <artifactId>google-collect</artifactId>
+            <version>snapshot-20080530</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+
     </dependencies>
+
+
 
 </project>

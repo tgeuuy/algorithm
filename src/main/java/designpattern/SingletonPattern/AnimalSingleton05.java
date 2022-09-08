@@ -31,7 +31,6 @@ class Animal05 {
                 if (animal == null){
                     animal = new Animal05();
                 }
-
             }
         }
         return animal;
